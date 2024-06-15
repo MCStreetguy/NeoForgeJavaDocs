@@ -4,9 +4,6 @@
 
 | **Minecraft Version** | **NeoForge Version** | **Stable** | **JavaDoc Link** |
 |:---:|:---:|:---:|:---:|
-<!-- | 1.21.0 | 21.0.8 | ✗ | [NeoForge 21.0.8 JavaDoc](https://mcstreetguy.github.io/NeoForgeJavaDocs/1.21.0-21.0.8/) | -->
-<!-- | 1.20.6 | 20.6.117 | ✓ | [NeoForge 20.6.117 JavaDoc](https://mcstreetguy.github.io/NeoForgeJavaDocs/1.20.6-20.6.117/) | -->
-<!-- | 1.20.5 | 20.5.21 | ✗ | [NeoForge 20.5.21 JavaDoc](https://mcstreetguy.github.io/NeoForgeJavaDocs/1.20.5-20.5.21/) | -->
 | 1.20.4 | 20.4.237 | ✓ | [NeoForge 20.4.237 JavaDoc](https://mcstreetguy.github.io/NeoForgeJavaDocs/1.20.4-20.4.237/) |
 | 1.20.3 | 20.3.8 | ✗ | [NeoForge 20.3.8 JavaDoc](https://mcstreetguy.github.io/NeoForgeJavaDocs/1.20.3-20.3.8/) |
 | 1.20.2 | 20.2.88 | ✓ | [NeoForge 20.2.88 JavaDoc](https://mcstreetguy.github.io/NeoForgeJavaDocs/1.20.2-20.2.88/) |

@@ -1,4 +1,4 @@
-# NeoForge JavaDocs
+# NeoForgeJavaDocs
 
 > **Heads up!** If you landed here but are actually looking for the original Forge JavaDocs instead, please see <https://mcstreetguy.github.io/ForgeJavaDocs/>.
 
